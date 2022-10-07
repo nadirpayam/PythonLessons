@@ -36,3 +36,5 @@ print(isOnline)
 #bool to int
 isOnline = int(isOnline)
 print(isOnline) #çıktısı 1 oldu, true= 1
+
+#print'te print("değer :" + float + "değer2" + float) yapamazsınız birleştirmelerdeki değerler string olmalı
